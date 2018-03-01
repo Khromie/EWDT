@@ -1,0 +1,126 @@
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\ApplicationInsights.config
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\eStoreAdmin.dll.config
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\eStoreAdmin.dll
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\eStoreAdmin.pdb
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\Antlr3.Runtime.dll
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\Microsoft.AI.Web.dll
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\Newtonsoft.Json.dll
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\System.Web.Helpers.dll
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\System.Web.Mvc.dll
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\System.Web.Optimization.dll
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\System.Web.Razor.dll
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\System.Web.WebPages.dll
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\WebGrease.dll
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\System.Web.Helpers.xml
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\System.Web.Mvc.xml
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\System.Web.Optimization.xml
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\System.Web.Razor.xml
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\System.Web.WebPages.xml
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\Antlr3.Runtime.pdb
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\Newtonsoft.Json.xml
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\bin\Microsoft.AI.Web.xml
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\obj\Debug\eStoreAdmin.csprojResolveAssemblyReference.cache
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\obj\Debug\eStoreAdmin.csproj.CoreCompileInputs.cache
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\obj\Debug\eStoreAdmin.dll
+C:\Users\user2\Desktop\eStoreAdmin\eStoreAdmin\obj\Debug\eStoreAdmin.pdb
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\ApplicationInsights.config
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\eStoreAdmin.dll.config
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\eStoreAdmin.dll
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\eStoreAdmin.pdb
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Antlr3.Runtime.dll
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Microsoft.AI.Web.dll
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Newtonsoft.Json.dll
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\System.Web.Helpers.dll
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\System.Web.Mvc.dll
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\System.Web.Optimization.dll
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\System.Web.Razor.dll
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\System.Web.WebPages.dll
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\WebGrease.dll
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\System.Web.Helpers.xml
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\System.Web.Mvc.xml
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\System.Web.Optimization.xml
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\System.Web.Razor.xml
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\System.Web.WebPages.xml
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Antlr3.Runtime.pdb
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Newtonsoft.Json.xml
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Microsoft.AI.Web.xml
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\obj\Debug\eStoreAdmin.csprojResolveAssemblyReference.cache
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\obj\Debug\eStoreAdmin.csproj.CoreCompileInputs.cache
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\obj\Debug\eStoreAdmin.dll
+C:\Users\user2\Desktop\EWDT\EWDT Week3 Workshop Solution\eStoreAdmin\eStoreAdmin\obj\Debug\eStoreAdmin.pdb
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\ApplicationInsights.config
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\eStoreAdmin.dll.config
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\eStoreAdmin.dll
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\eStoreAdmin.pdb
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Antlr3.Runtime.dll
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Microsoft.AI.Web.dll
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Newtonsoft.Json.dll
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\System.Web.Helpers.dll
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\System.Web.Mvc.dll
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\System.Web.Optimization.dll
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\System.Web.Razor.dll
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\System.Web.WebPages.dll
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\System.Web.WebPages.Razor.dll
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\WebGrease.dll
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\System.Web.Helpers.xml
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\System.Web.Mvc.xml
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\System.Web.Optimization.xml
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\System.Web.Razor.xml
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\System.Web.WebPages.xml
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\System.Web.WebPages.Razor.xml
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Antlr3.Runtime.pdb
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Newtonsoft.Json.xml
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\bin\Microsoft.AI.Web.xml
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\obj\Debug\eStoreAdmin.csprojResolveAssemblyReference.cache
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\obj\Debug\eStoreAdmin.csproj.CoreCompileInputs.cache
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\obj\Debug\eStoreAdmin.dll
+C:\Users\Wei Liang\Downloads\EWDT Week2And3 Workshop Solution (1)\EWDT Week2And3 Workshop Solution\eStoreAdmin\eStoreAdmin\obj\Debug\eStoreAdmin.pdb
